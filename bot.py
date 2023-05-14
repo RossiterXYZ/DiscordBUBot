@@ -4,8 +4,8 @@
 #Prettier display of data [Embed/Image]
 
 footer_text = 'BU Bot v1.0'
-allowed_channels = [1104446498730692749] #list of allowed channels
-admin_roles = [441949071889137685] #list of admin-level roles (for managing this bot)
+allowed_channels = [] #list of allowed channels
+admin_roles = [] #list of admin-level roles (for managing this bot)
 banlist = [] #banlist for disallowed users
 bot_disabled = False
 
